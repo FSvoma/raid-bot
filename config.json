@@ -1,0 +1,19 @@
+{
+    "creator_id": 797535455767691325,
+    "text_message": "@everyone https://discord.gg/CryRRActHy",
+    "channel_count": 500,
+    "channel_name": "Raid by WhiteWolf",
+    "token": "",
+    "ban_message": "Raid by WhiteWolf",
+    "server_name": "Raid by WhiteWolf",
+    "message_send": 0,
+    "ban_specific_id": null,
+    "ban_amount": "all",
+    "role_name": "Protect",
+    "role_color": "#00FF00",
+    "embed_color": "#FF0000",
+    "game_name": ".about",
+    "start_ban": false,
+    "start_role_delete": true
+  }
+  
